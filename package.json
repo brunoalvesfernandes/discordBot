@@ -1,0 +1,23 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord-quiz": "^1.0.5",
+    "discord.js": "^13.8.0",
+    "download-file": "^0.1.5",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "mysql": "git://github.com/mysqljs/mysql#e3e123e9af7c0829a6c1417d911572a75b4a5f95",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  }
+}
